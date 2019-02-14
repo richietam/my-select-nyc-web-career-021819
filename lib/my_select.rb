@@ -5,4 +5,5 @@ while i < collection.length
   newArr << yield(collection[i])
   i += 1
   end
+  newArr
 end
